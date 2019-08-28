@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MvvmArchitecture</string>
+
+    <!--네트워크 에러-->
+    <string name="text_network_error">네트워크 연결에 실패했습니다. 연결상태 확인 후 재시도 해주세요.</string>
+    <string name="text_error">에러</string>
+
+    <string name="action_close">닫기</string>
+</resources>
